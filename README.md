@@ -1,2 +1,2 @@
 # schoolsite
-Ukrainian school
+ school
