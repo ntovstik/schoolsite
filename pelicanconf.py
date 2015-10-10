@@ -7,6 +7,7 @@ SITENAME = u'Ukrainian School of Amsterdam'
 SITEURL = ''
 
 PATH = 'content'
+#THEME = 'backdrop'
 
 TIMEZONE = 'Europe/Amsterdam'
 
