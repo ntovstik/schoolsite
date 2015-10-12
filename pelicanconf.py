@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Natalia Tovstik'
-SITENAME = u'Ukrainian School of Amsterdam'
+SITENAME = u'Ukrainian School in Amsterdam'
 SITEURL = ''
 
 PATH = 'content'
@@ -21,13 +21,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Українське посольство в Нідерландах', 'http://mfa.gov.ua/ua/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('Facebook', 'https://m.facebook.com/profile.php?id=586437808129476&ref=bookmarks'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
