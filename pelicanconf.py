@@ -28,6 +28,9 @@ SOCIAL = (('Facebook', 'https://m.facebook.com/profile.php?id=586437808129476&re
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+PAGE_ORDER_BY = 'sortorder'
+
+STATIC_PATHS = ['images']
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
