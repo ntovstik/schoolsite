@@ -1,7 +1,7 @@
 Title: Петриківський розпис
 Date: 2015-10-14 22:20
-Category: Новини
 Tags: Для всіх груп
+Category: Художня майстерня
 Slug: my-super-post
 Summary: перший майстер-клас
 

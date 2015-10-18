@@ -63,6 +63,7 @@ help:
 
 html:
 	#$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) -t ./themes/lannisport  $(PELICANOPTS)
+	#$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) -t ./themes/pelican-chameleon  $(PELICANOPTS)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE)  $(PELICANOPTS)
 
 clean:

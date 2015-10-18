@@ -1,10 +1,9 @@
 Title: Танці
 Date: 2015-09-27 22:20
-Category: Новини
-Tags: Для всіх груп
+Category: Театральна майстерня
+Tags: танці
 Slug: dance
-Summary: Short version for index and feed
-
+Summary: танці
 
 Информация
 Доброго дня, всім!
