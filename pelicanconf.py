@@ -8,7 +8,7 @@ SITENAME = u'Українська школа в Амстердамі'
 SITEURL = 'http://127.0.0.1:8000'
 
 #PATH = 'content'
-THEME = 'backdrop'
+THEME = 'themes/backdrop'
 #THEME='pelican-chameleon'
 #THEME='themes/waterspill-en'
 #THEME='/home/nmi/natasha/pelican-themes/BT3-Flat'
@@ -16,7 +16,7 @@ THEME = 'backdrop'
 #THEME='/home/nmi/natasha/pelican-themes/simple-bootstrap/'
 #THEME='themes/twenty-pelican-html5up'
 
-SITE_DESCRIPTION='Вітаємо Вас на сайті української школи в Амстердамі.'
+SITE_DESCRIPTION='Вітаємо Вас на сайті української школи в Амстердамі.<br/> Наши контакти: e-mail: oksana.guseletova@gmail.com, тел. +31612727194'
 
 TIMEZONE = 'Europe/Amsterdam'
 
