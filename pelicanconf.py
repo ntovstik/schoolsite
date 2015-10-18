@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Natalia Tovstik'
 SITENAME = u'Українська школа в Амстердамі'
-#SITEURL = 'http://ua-school-amsterdam.org'
-SITEURL = 'http://127.0.0.1:8000'
+SITEURL = 'http://uaschool.contrall.info'
+#SITEURL = 'http://127.0.0.1:8000'
 
 #PATH = 'content'
 THEME = 'themes/backdrop'
@@ -52,7 +52,7 @@ AUTHORS = {
     u'nata': 'http://nata.info'    
 }
 
-BACKDROP_IMAGE = 'http://127.0.0.1:8000/images/Amsterdam1.jpg'
+BACKDROP_IMAGE = 'http://uaschool.contrall.info/images/Amsterdam1.jpg'
 #PROFILE_IMAGE = 'images/apartment-13.jpg'
 #PROFILE_IMAGE = 'images/Amsterdam1.jpg'
 
